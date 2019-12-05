@@ -1,0 +1,4 @@
+{
+  "commandDescription": "execute a sosl search with the rest api",
+  "queryFlagDescription": "sosl query to execute"
+}
